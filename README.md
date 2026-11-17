@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**rafael-santos12/rafael-santos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Rafael Santos 👋
 
-Here are some ideas to get you started:
+🎓 IT Technician graduated from ETBraz, currently completing high school.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Web Development, Technology, and Innovation.
+
+🌱 Currently expanding my knowledge of Python and Artificial Intelligence.
+
+### 🛠️ Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+- MySQL
+- XAMPP
+- Visual Studio Code
+
+### 🚀 Projects
+
+- **Solly:** E-commerce platform developed as a final project for my IT technical course, featuring product management, shopping cart, orders, and an administrative dashboard.
+
+### 🎓 Education
+
+- IT Technician – Escola Técnica Deputado Juarezão (ETBraz).
+- English Studies – Centro Interescolar de Línguas de Brazlândia (5 years of study, currently in the final semester).
+
+### 🌎 Languages
+
+- Portuguese: Native.
+- English: Intermediate to Advanced.
+
+### 📫 Contact
+
+- Email: rafasantss2008@gmail.com
